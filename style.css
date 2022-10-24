@@ -56,3 +56,13 @@ header h2 {
 .title{
  width: 127px ;
 }
+
+
+.item li::before{
+  content: "— "
+}
+
+.circle li::before{
+  content: ' \25CF';
+  color: #44526C;
+  margin-right: 8px;
