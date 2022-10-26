@@ -6,6 +6,8 @@
   padding: 0;
   font-family: 'Inter', sans-serif;
   list-style: none;
+  text-decoration: none;
+  color:#44526c
 }
 
 body {
@@ -67,4 +69,4 @@ header h2 {
 .circle li::before{
   content: ' \25CF';
   color: #44526C;
-  margin-right: 8px;
+  margin-right: 9px;
